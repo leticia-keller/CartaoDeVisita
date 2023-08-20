@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto LK é um cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/Gabriel-Augusto-ads/Gabriel-Augusto-ads.git)
+- [Acesse o projeto finalizado, online](https://gabriel-augusto-ads.github.io/Projeto-LK/)
 
 ## :memo: Licença
 
