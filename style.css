@@ -49,6 +49,7 @@ body * {
 }
 
 #profile p {
+  font-weight: 500;
   line-height: 9px;
   margin-top: 8px;
 }
@@ -120,6 +121,12 @@ ul li a {
   font-weight: 500;
 
   transition: background 0.2s;
+}
+
+/*space icons*/
+.hydrated {
+  margin-left: 5px;
+  visibility: inherit;
 }
 
 /*pseudo-selector*/
