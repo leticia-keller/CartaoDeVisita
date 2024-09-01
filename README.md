@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-   <img alt = "Poject LK" src="./assets1/visita.jpg"width="70%">
+   <img alt = "Poject LK" src="./assets1/visita.jpg.jpeg"width="70%">
 </p>
 
 ## 🚀 Tecnologias
