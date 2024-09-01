@@ -1,4 +1,4 @@
-<h1 align="center"> Project LK </h1>
+<h1 align="center"> Projeto  cartão de visita </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,14 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto LK é um cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://gabriel-augusto-ads.github.io/Projeto-LK/)
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
+O Projeto é um cartão de visitas online.
 ---
 
--Feito com ♥ @Gabriel-Augusto-ads-
+- Feito por Gabriel Augusto
